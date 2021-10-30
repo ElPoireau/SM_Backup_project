@@ -7,5 +7,9 @@ ChangeLogs:
     Create everything.
   V-0.2
     Added New interface.
+  V-0.3
+    Added new statsistics system.
+    change some files processing.
+    add more comment
     
 This is a really complete changelogs :-|
